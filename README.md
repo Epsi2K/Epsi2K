@@ -91,10 +91,10 @@
 
 ###
 
-<div align="center>
-  <img src="https://raw.githubusercontent.com/Epsi2K/Epsi2K/output/github-snake-dark.svg" alt="Snake animation" />
 
-</div>
+<img src="https://raw.githubusercontent.com/Epsi2K/Epsi2K/output/github-snake-dark.svg" alt="Snake animation" />
+
+
 
 ###
 
