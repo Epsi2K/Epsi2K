@@ -20,6 +20,14 @@
 -->
 <h2 align="left">Hi 👋! My name is Pushkaraj and I'm a AI/Software Engineer from INDIA</h2>
 
+- 🔭 I’m currently working on **Llama 3.2**
+
+- 🌱 I’m currently learning **Groovy**
+
+- 👯 I’m looking to collaborate on **GenAI Projects**
+
+- 🤝 I’m looking for help with **DevOps**
+
 ###
 
 <div align="center">
