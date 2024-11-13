@@ -91,7 +91,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Epsi2K/Epsi2K/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Epsi2K/Epsi2K/output/github-snake-dark.svg" alt="Snake animation" />
 
 ###
 
