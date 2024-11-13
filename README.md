@@ -64,10 +64,4 @@
   </a>
 </div>
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Epsi2K/Epsi2K/output/snake.svg" alt="Snake animation" />
-
-###
