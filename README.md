@@ -46,7 +46,8 @@
 </div>
 
 ###
-<div class="tenor-gif-embed" data-postid="22257939" data-share-method="host" data-aspect-ratio="2.42424" data-width="100%"><a href="https://tenor.com/view/cat-coding-gif-22257939">Cat Coding GIF</a>from <a href="https://tenor.com/search/cat+coding-gifs">Cat Coding GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+<img align="right" height="150" src="https://tenor.com/view/cat-coding-gif-22257939"  />
 
 ###
 
